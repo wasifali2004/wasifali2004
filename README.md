@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently improving on **Problem Solving**
+ 🔭 I’m currently improving on **Critical Thinking and Problem Solving**
  
  🌱 I’m currently learning **WEB DEVELOPMENT**
 
