@@ -11,9 +11,7 @@
  
  🔭 I’m currently improving on **Problem Solving**
  
- 🌱 I’m currently learning **DSA, OS, P&S**
-
-💬 Ask me about **DSA ... or anything [here](https://github.com/wasifali2004/Leetcode)**
+ 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -69,13 +67,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-  <a href='https://buymeacoffee.com/wasif2468' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-</div>
-
-<br/>
