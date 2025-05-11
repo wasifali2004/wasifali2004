@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/wasif-ali-7693242a3">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wasifali1004.github.io">
+  <a href="https://new-portfolio-seven-vert.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
