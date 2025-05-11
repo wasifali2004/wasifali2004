@@ -25,9 +25,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wasifali1004.github.io" target="_blank">
-    <img src="https://new-portfolio-seven-vert.vercel.app/" />
+    <img src="https://raw.githubusercontent.com/wasifali1004/wasifali1004/main/assets/portfolio-preview.png" alt="Portfolio" style="width: 300px; border-radius: 10px;" />
   </a>
 </div>
+
 
 
  <hr/>
