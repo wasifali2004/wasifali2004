@@ -16,18 +16,17 @@
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
 
-
-<div align="center"> 
-  <a href="mailto:wasifali16103@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<p align="center">
+  <a href="mailto:wasifali16103@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/wasif-ali-7693242a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/wasif-ali-7693242a3">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wasifali1004.github.io" target="_blank">
-    <img src="https://via.placeholder.com/300x180.png?text=Visit+My+Portfolio" alt="Portfolio Preview" style="width: 300px; border-radius: 10px; margin-top: 10px;" />
+  <a href="https://wasifali1004.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-</div>
+</p>
 
 
  
